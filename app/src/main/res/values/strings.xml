@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Companion Settings Sample</string>
+    <string name="refresh_companion_app_settings">Refresh Companion App Settings</string>
+</resources>
